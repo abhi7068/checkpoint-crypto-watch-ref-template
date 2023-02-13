@@ -33,7 +33,7 @@ function App() {
       <CustomApp>
         <Header />
         
-        {/* use private and protected routes goes here */}
+        {/* your private and protected routes goes here */}
 
       </CustomApp>
     </BrowserRouter>
